@@ -1,0 +1,8 @@
+.streamlit/secrets.toml
+__pycache__/
+.env
+schedule.json
+course_workspace.json
+course_workspace_media/
+course_profile.json
+.env

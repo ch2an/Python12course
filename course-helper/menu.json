@@ -1,0 +1,96 @@
+[
+  {
+    "offering_id": "DEMO101-A",
+    "course_id": "DEMO101",
+    "course_name": "Python 資料整理（示範課程）",
+    "department": "示範系所",
+    "target_year": "不限",
+    "section": "A",
+    "credits": 2,
+    "is_required": false,
+    "teacher": "示範教師甲",
+    "meeting_times": [
+      {
+        "day": "一",
+        "start": "09:00",
+        "end": "10:50"
+      }
+    ],
+    "grading": "示範：作業 60%、期末專題 40%",
+    "teaching_style": "示範資料，非真實教師資訊",
+    "reviews": [
+      "示範評論，非真實學生心得；這是組員撰寫的虛構摘要。"
+    ],
+    "sources": [
+      {
+        "name": "小組自製示範資料",
+        "url": "",
+        "fields": ["course_name", "credits", "teacher", "grading", "teaching_style", "reviews"],
+        "checked_at": "2026-11-24",
+        "note": "虛構示範資料，非真實課程或學生評論"
+      }
+    ]
+  },
+  {
+    "offering_id": "DEMO102-B",
+    "course_id": "DEMO102",
+    "course_name": "程式設計基礎（示範課程）",
+    "department": "示範系所",
+    "target_year": "不限",
+    "section": "B",
+    "credits": 3,
+    "is_required": true,
+    "teacher": "示範教師乙",
+    "meeting_times": [
+      {
+        "day": "二",
+        "start": "13:10",
+        "end": "16:00"
+      }
+    ],
+    "grading": "示範：小考 30%、作業 40%、期末考 30%",
+    "teaching_style": "示範資料：以課堂練習為主",
+    "reviews": [
+      "示範評論，非真實學生心得；這是組員撰寫的虛構摘要。"
+    ],
+    "sources": [
+      {
+        "name": "小組自製示範資料",
+        "url": "",
+        "fields": ["course_name", "credits", "is_required", "teacher", "grading", "teaching_style", "reviews"],
+        "checked_at": "2026-11-24",
+        "note": "虛構示範資料，非真實課程或學生評論"
+      }
+    ]
+  },
+  {
+    "offering_id": "DEMO103-A",
+    "course_id": "DEMO103",
+    "course_name": "網頁介面入門（示範課程）",
+    "department": "示範系所",
+    "target_year": "不限",
+    "section": "A",
+    "credits": 2,
+    "is_required": false,
+    "teacher": "示範教師甲",
+    "meeting_times": [
+      {
+        "day": "四",
+        "start": "10:10",
+        "end": "12:00"
+      }
+    ],
+    "grading": "未提供",
+    "teaching_style": "示範資料：以小組作品展示為主",
+    "reviews": [],
+    "sources": [
+      {
+        "name": "小組自製示範資料",
+        "url": "",
+        "fields": ["course_name", "credits", "is_required", "teacher", "teaching_style"],
+        "checked_at": "2026-11-24",
+        "note": "虛構示範資料，評分方式與修課心得刻意保留為未提供"
+      }
+    ]
+  }
+]
